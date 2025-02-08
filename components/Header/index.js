@@ -1,7 +1,5 @@
 import { useState, useEffect } from "react"
 import { Container } from ".."
-import userAvatar from "../../public/images/avatar/avatar.png"
-
 import usersInfo from "../../data/usersInfo.json"
 import languages from "../../data/languages.json"
 
