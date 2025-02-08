@@ -1,0 +1,47 @@
+{
+    "projects": [
+      {
+        "title": "TeamsX",
+        "imageUrl": "https://github.com/M-ayank2005/TeamsX/raw/main/demo.png",
+        "project_url": "https://github.com/M-ayank2005/TeamsX",
+        "description": "A full-stack platform connecting 500+ users with AI-driven chat, WebRTC video calls, and real-time analytics.",
+        "tags": ["nextjs", "nodejs", "mysql", "docker", "aws", "livekit"]
+      },
+      {
+        "title": "Defi",
+        "imageUrl": "https://github.com/M-ayank2005/Defi/raw/main/demo.png",
+        "project_url": "https://github.com/M-ayank2005/Defi",
+        "description": "A decentralized cryptocurrency exchange for fast and secure digital asset trading.",
+        "tags": ["solidity", "react", "ethereum", "metamask", "remix"]
+      },
+      {
+        "title": "Quecto",
+        "imageUrl": "https://github.com/M-ayank2005/Quecto/raw/main/demo.png",
+        "project_url": "https://github.com/M-ayank2005/Quecto",
+        "description": "An e-commerce platform using Java and Spring Boot for smooth business interactions.",
+        "tags": ["java", "spring boot", "react", "mysql", "docker", "aws"]
+      },
+      {
+        "title": "Weather App",
+        "imageUrl": "https://cdn-icons-png.flaticon.com/512/1163/1163661.png",
+        "project_url": "https://github.com/M-ayank2005/weather-app",
+        "description": "A real-time weather app fetching live data from OpenWeather API.",
+        "tags": ["react", "nodejs", "api", "tailwind"]
+      },
+      {
+        "title": "URL Shortener",
+        "imageUrl": "https://cdn-icons-png.flaticon.com/512/2014/2014015.png",
+        "project_url": "https://github.com/M-ayank2005/url-shortener",
+        "description": "A simple URL shortening service with analytics tracking.",
+        "tags": ["nodejs", "express", "mongodb", "tailwind"]
+      },
+      {
+        "title": "BiteBox App",
+        "imageUrl": "https://cdn-icons-png.flaticon.com/512/2921/2921822.png",
+        "project_url": "https://github.com/M-ayank2005/bitebox",
+        "description": "A food delivery app with real-time order tracking and restaurant listings.",
+        "tags": ["react", "nodejs", "firebase", "tailwind"]
+      }
+    ]
+  }
+  

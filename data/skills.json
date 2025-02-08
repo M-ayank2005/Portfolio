@@ -1,0 +1,29 @@
+{
+    "skills": [
+      {
+        "name": "Frontend Development",
+        "description": "Building highly responsive and visually appealing web interfaces using modern frameworks.",
+        "technologies": ["React", "Next.js", "Tailwind CSS", "Material UI", "Framer Motion"],
+        "projects_completed": "10"
+      },
+      {
+        "name": "Backend Development",
+        "description": "Developing robust, scalable, and high-performance backend systems.",
+        "technologies": ["Node.js", "Express.js", "Spring Boot", "Golang", "GraphQL"],
+        "projects_completed": "10"
+      },
+      {
+        "name": "Database Design & Management",
+        "description": "Designing and optimizing databases for scalability, efficiency, and security.",
+        "technologies": ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "CockroachDB"],
+        "projects_completed": "5"
+      },
+      {
+        "name": "Blockchain Development",
+        "description": "Building secure and decentralized applications on blockchain networks.",
+        "technologies": ["Solidity", "Ethereum", "Move", "Aptos", "MetaMask"],
+        "projects_completed": "4"
+      }
+    ]
+  }
+  
